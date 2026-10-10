@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "updatedAt": 1791607921845,
+  "devices": {
+    "ba86b786-8162-465c-a767-5cacc5cb1c3d": {
+      "lastSeen": 1791607921144
+    }
+  },
+  "problems": {},
+  "achievements": {},
+  "sheets": {},
+  "days": [],
+  "bests": {
+    "longestStreak": 0,
+    "pushes": 0
+  },
+  "identity": {
+    "installId": "1cdd8fdd-9701-4b14-912a-a73c5b9b8246",
+    "at": 1791607621196,
+    "name": null,
+    "nameAt": 0
+  }
+}
